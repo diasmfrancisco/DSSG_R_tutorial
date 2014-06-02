@@ -30,9 +30,14 @@ xlsx
 
 
 
-## Missing Data
 
+## Manipulate Data
+
+
+### Missing Data
 * **Amelia II**
+
+### dplyr
 
 
 
@@ -41,6 +46,11 @@ xlsx
 ## Visualizing Data
 
 ### ggplot2
+ 
+Two main functions:
+1. qplot(): quick plots
+2. ggplot(): control of details
+
  
 **Additional resources**: [Tables2Graphs](http://tables2graphs.com/doku.php)
 
