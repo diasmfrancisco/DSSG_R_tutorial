@@ -8,21 +8,31 @@ Introduction to R packages that will be useful for Data Science for Social Good 
 
 
 
-## Software
+## The Software
 1. **R**:  This is the software that handles data manipulation, analysis, and visualization.  Download a copy [here](http://cran.r-project.org/).
-2. **RStudio**:   Download a copy [here](http://www.rstudio.com/ide/download/desktop).
+2. **RStudio**: This is an integrated development environment (that is, it brings the source code, output screen, debugging tools, etc. together).  It provides an attractive, manipulable, easy-to-use interface to R.  Download a copy [here](http://www.rstudio.com/ide/download/desktop).
 
 
-mlr
 
 
-## Reading Data
 
-JSON
-SQL
+## Load Data
+
+R likes CSVs and tab-delimited files, but some of your partners will share their data in other formats.  R has many packages to read other data formats.  I provide examples for several in the code:
+
+* **foreign**: 
+* **sas7bdat**: 
+* **sqldf**: http://files.meetup.com/1625815/crug_sqldf_05-01-2013.pdf
+* **XML**: 
+* **rjson**: 
+
 xlsx
-foreign
-SAS
+
+
+
+## Missing Data
+
+* **Amelia II**
 
 
 
@@ -39,7 +49,7 @@ SAS
 
 
 ## Model Estimation
-
+mlr
 
 
 
